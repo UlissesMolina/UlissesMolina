@@ -1,4 +1,4 @@
-## Hi there
+## Hi
 
 I'm Ulisses — software engineering student, Auburn SWE. 
 
