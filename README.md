@@ -1,7 +1,7 @@
 ## Hi
 
-I'm Ulisses — software engineering student, Auburn SWE. 
+Software studying software engineering, Auburn University. 
 
 [Portfolio](https://ulissesmolina.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/ulissesmolina) · [Email](mailto:umolina2005@gmail.com)
 
-Open to part-time work and Summer 2026 internships.
+Open to Summer 2026 internships Opportunities.
