@@ -1,7 +1,10 @@
-## Hi
 
-Software studying software engineering, Auburn University. 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=UlissesMolina)](https://git.io/streak-stats)
+
+
+
+SWE @ Auburn
 
 [Portfolio](https://ulissesmolina.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/ulissesmolina) · [Email](mailto:umolina2005@gmail.com)
 
-Open to Summer 2026 internships Opportunities.
+You're here but why?
