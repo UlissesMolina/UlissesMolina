@@ -1,5 +1,5 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=UlissesMolina)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=UlissesMolina&theme=black-ice)](https://git.io/streak-stats)
 
 
 
