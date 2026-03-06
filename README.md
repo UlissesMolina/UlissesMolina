@@ -20,16 +20,7 @@ I build full-stack tools. Open to Summer 2026 internships.
 
 ---
 
-### GitHub Stats
 
-<a href="https://github.com/UlissesMolina">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=UlissesMolina&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/UlissesMolina">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesMolina&layout=compact&langs_count=8&card_width=320&theme=dark&bg_color=0d1117&hide_border=true&title_color=ff6b6b&text_color=c9d1d9" />
-</a>
-
-<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=UlissesMolina&theme=dark&background=0d1117&hide_border=true&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b)](https://git.io/streak-stats)
 
