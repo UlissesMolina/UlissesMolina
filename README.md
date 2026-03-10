@@ -1,28 +1,16 @@
-
-
-I build full-stack tools. Open to Summer 2026 internships.
+<div align="center">
+SWE @ Aubrun Unveristy · Full Stack · Java
 
 [Portfolio](https://ulissesmolina.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/ulissesmolina) · [Email](mailto:umolina2005@gmail.com)
 
----
 
-### Tech Stack
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UlissesMolina&theme=meta-dark)](https://git.io/streak-stats)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,python,java,spring,nodejs,postgres,docker,tailwind,firebase,git&perline=6)](https://skillicons.dev)
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=UlissesMolina&theme=dark&background=0d1117&hide_border=true&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b)](https://git.io/streak-stats)
 
 
-**Reach me at:** umolina2005@gmail.com
+</div>
+
