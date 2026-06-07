@@ -1,5 +1,15 @@
-# SWE @ Auburn University
+<div align="center">
 
-### [Portfolio](https://ulissesmolina.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/ulissesmolina)
+# Ulisses Molina-Becerra
+### Software Engineer @ Auburn University
 
-![Uli's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlissesMolina&show_icons=true&theme=dark)
+[Portfolio](https://ulissesmolina.netlify.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ulissesmolina)
+
+
+
+### Language Stats
+![Language Stats](https://vani-stats.vercel.app/api?username=UlissesMolina&theme=dark&max_langs=5)
+
+---
+
+</div>
