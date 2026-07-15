@@ -2,8 +2,8 @@
 <p align="center"><b>Software Engineer @ Auburn University</b></p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> · 
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://ulissesmolina.netlify.app/">Portfolio</a> · 
+  <a href="www.linkedin.com/in/ulissesmolina">LinkedIn</a>
 </p>
 
 ---
